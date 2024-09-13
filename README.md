@@ -14,3 +14,4 @@ Essa tarefa foi realizada para exercitar o trabalho com APIs e familiridade com 
         }, <br />
         headers: { <br />
         } <br />
+ }) <br />
